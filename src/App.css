@@ -1,0 +1,28 @@
+.active {
+    background-color: #0aad0a;
+    color: white;
+    border-radius: 5px;
+    padding: 2px;
+
+}
+.mySwiperr {
+  position: relative;
+}
+
+.mySwiperr .swiper-pagination {
+  bottom: 35px !important; 
+  
+}
+.mySwiper {
+  position: relative;
+  padding-bottom: 35px;
+}
+
+.mySwiper .swiper-pagination {
+  bottom: -2px !important; 
+  
+}
+
+
+
+
