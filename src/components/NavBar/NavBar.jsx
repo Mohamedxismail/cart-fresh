@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react'
 import styles from './NavBar.module.css';
 import logo from '../../assets/freshcart-logo.svg'
 import { Link, NavLink, useNavigate } from 'react-router-dom';
-import { counterContext } from '../../Context/counterContext';
+import { counterContext } from '../../Context/CounterContext';
 import { tokenContext } from '../../Context/TokenContext';
 import { cartContext } from '../../Context/cartContext';
 import shopIcon from '../../assets/OIP.webp';
