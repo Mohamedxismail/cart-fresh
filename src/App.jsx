@@ -3,7 +3,7 @@ import './App.css';
 import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
 import { tokenContext } from './Context/TokenContext';
 import LayOut from './components/LayOut/LayOut';
-import ProtectedRoutes from './components/protectedRoutes/protectedRoutes';
+import ProtectedRoutes from './components/ProtectedRoutes/ProtectedRoutes';
 import AuthView from './components/AuthView/AuthView';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
