@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import styles from './Loader.module.css'
+import styles from './loader.module.css'
 import loader from '../../../assets/11614845.gif'
 export default function Loader() {
     const[count,setCount] = useState(0)
