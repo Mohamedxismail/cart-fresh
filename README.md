@@ -295,7 +295,7 @@ https://github.com/Mohamedxismail
 
 ### LinkedIn
 
-https://www.linkedin.com/in/YOUR-LINKEDIN
+www.linkedin.com/in/mohamed-ismail-81217a33b
 
 ---
 
