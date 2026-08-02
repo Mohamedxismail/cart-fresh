@@ -111,9 +111,6 @@ export default function Checkout() {
         </div> : <button type="submit" className="text-white bg-[#0aad0a] mt-3  rounded-md box-border w-full  ml-auto border border-transparent hover:bg-brand-strong  focus:ring-4 focus:ring-brand-medium shadow-xs font-medium leading-5 rounded-base text-md px-4 py-2.5 focus:outline-none">Pay Now</button>
         }
 
-
-
-
       </form>
     </div>
 
